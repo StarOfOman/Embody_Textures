@@ -1,0 +1,1 @@
+Make sure you set legs and feet clothing to none when utilizing this asset.
